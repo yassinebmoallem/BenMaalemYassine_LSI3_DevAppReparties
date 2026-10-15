@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TP1-DAR2026 : Les sockets en mode connecté TCP
 
 ## Membres du groupe
@@ -484,3 +485,6 @@ Le client envoie ensuite l'opérateur et l'entier au serveur. Le serveur effectu
 Le test réalisé avec l'opérateur `/` et l'entier `0` a retourné correctement le résultat `0`.
 
 Les flux d'entrée, les flux de sortie et les sockets sont fermés après la réception et l'affichage du résultat.
+=======
+# BenMaalemYassine_LSI3_DevAppReparties
+>>>>>>> 2de00b4557cb083d0a2bee01bdf77c912ec53847
